@@ -1,7 +1,7 @@
 ### Hi there I'm Gibran👋
 
 [![Gmail Badge](https://img.shields.io/badge/-haykalgibran46@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:haykalgibran46@gmail.com)](mailto:haykalgibran46@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-haykalgibran-hakim-5034701b8-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haykalgibran-hakim-5034701b8/)](https://www.linkedin.com/in/haykalgibran-hakim-5034701b8/) [![Github Badge](https://img.shields.io/badge/-haykalgibran-grey?style=flat&logo=github&logoColor=white&link=https://github.com/haykalgibran/)](https://www.github.com/haykalgibran/) [![Twitter Badge](https://img.shields.io/badge/-haykalgibran17-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/haykalgibran17/)](https://www.twitter.com/haykalgibran17/) <p align='left'>Iam Student From UPN "Veteran" Jakarta</p>
+[![Linkedin](https://img.shields.io/badge/-haykalgibran-hakim-5034701b8-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haykalgibran-hakim-5034701b8/)](https://www.linkedin.com/in/haykalgibran-hakim-5034701b8/) [![Github Badge](https://img.shields.io/badge/-haykalgibran-grey?style=flat&logo=github&logoColor=white&link=https://github.com/haykalgibran/)](https://www.github.com/haykalgibran/) [![Twitter Badge](https://img.shields.io/badge/-haykalgibran17-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/haykalgibran17/)](https://www.twitter.com/haykalgibran17/) <p align='left'>Iam Student From UPN "Veteran" Jakarta</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=haykalgibran alt=haykalgibran /> </p>
 
