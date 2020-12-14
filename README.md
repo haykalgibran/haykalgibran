@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-haykalgibranhakim-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haykalgibranhakim/)](https://www.linkedin.com/in/haykal-gibran-hakim-5034701b8/) 
 [![Github Badge](https://img.shields.io/badge/-haykalgibran-grey?style=flat&logo=github&logoColor=white&link=https://github.com/haykalgibran/)](https://www.github.com/haykalgibran/)
 [![Twitter Badge](https://img.shields.io/badge/-haykalgibran17-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/haykalgibran17/)](https://www.twitter.com/haykalgibran17/) 
-[![Instagram Badge](https://img.shields.io/badge/-hyklgibran-maroon?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hyklgibran/)](https://www.instagram.com/hyklgibran/)  <p align='left'>🏫 I'm Student From UPN "Veteran" Jakarta</p>
+[![Instagram Badge](https://img.shields.io/badge/-hyklgibran-#4c5fd7?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hyklgibran/)](https://www.instagram.com/hyklgibran/)  <p align='left'>🏫 I'm Student From UPN "Veteran" Jakarta</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=haykalgibran alt=haykalgibran /> </p>
 
