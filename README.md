@@ -1,5 +1,5 @@
 ### Hi there I'm Gibran👋
-<p align='left'>🏫 I'm Student From Veteran National Development University of Jakarta</p>
+<p align='left'>🏫 I'm Student From Pembangunan National University Veteran Jakarta
 
 ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-haykalgibranhakim-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haykalgibranhakim/)](https://www.linkedin.com/in/haykal-gibran-hakim-5034701b8/) 
