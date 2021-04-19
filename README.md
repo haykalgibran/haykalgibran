@@ -10,7 +10,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=haykalgibran alt=haykalgibran /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykalgibran&layout=compact)](https://github.com/haykalgibran/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykalgibran&layout=compact)]
 
 
 
