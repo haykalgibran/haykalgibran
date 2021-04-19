@@ -10,9 +10,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=haykalgibran alt=haykalgibran /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haykalgibran&layout=compact)]
-
-
+[![Top Langs](https://github.com/haykalgibran/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=haykalgibran&layout=compact)
 
 <!--
 **haykalgibran/haykalgibran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
