@@ -3,9 +3,10 @@
 
 ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-haykalgibranhakim-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haykalgibranhakim/)](https://www.linkedin.com/in/haykal-gibran-hakim-5034701b8/)
-[![Instagram Badge](https://img.shields.io/badge/-hyklgibran-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hyklgibran/)](https://www.instagram.com/hyklgibran/)  
-[![Dribbble Badge]("https://img.shields.io/badge/Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white&link=https://dribbble.com/haykalgibranhakim" /)]
-(https://dribbble.com/haykalgibranhakim/)
+[![Instagram Badge](https://img.shields.io/badge/-hyklgibran-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hyklgibran/)](https://www.instagram.com/hyklgibran/)
+[![Dribbble Badge](https://img.shields.io/badge/Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white&link=https://dribbble.com/haykalgibranhakim/)]
+(https://dribbble.com/haykalgibranhakim)
+<a href="https://dribbble.com/haykalgibranhakim" target="_blank"><img src="https://img.shields.io/badge/Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white&link=https://dribbble.com/haykalgibranhakim" /></a>
 
 
 ## Some of my Github Stats
