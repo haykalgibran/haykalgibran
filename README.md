@@ -4,6 +4,9 @@
 ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-haykalgibranhakim-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haykalgibranhakim/)](https://www.linkedin.com/in/haykal-gibran-hakim-5034701b8/)
 [![Instagram Badge](https://img.shields.io/badge/-hyklgibran-red?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/hyklgibran/)](https://www.instagram.com/hyklgibran/)  
+[![Dribbble Badge]("https://img.shields.io/badge/Dribbble-ff69b4?style=flat-square&logo=dribbble&logoColor=white&link=https://dribbble.com/haykalgibranhakim" /)]
+(https://dribbble.com/haykalgibranhakim/)
+
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=haykalgibran alt=haykalgibran /> </p>
